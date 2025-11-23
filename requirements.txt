@@ -1,4 +1,4 @@
-colorama
-playwright
-requests
-python-dotenv
+colorama>=0.4.6
+playwright>=1.41.0
+requests>=2.31.0
+python-dotenv>=1.0.0
