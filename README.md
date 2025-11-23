@@ -11,6 +11,10 @@ AI Agent berbasis OpenRouter yang mampu membaca satu folder berisi file HTML, CS
   ```
   pip install -r requirements.txt
   ```
+- Install Browser Engine (Khusus Playwright)
+  ```
+  playwright install chromium
+  ```
 - Tambahkan API KEY, Buat file .env dengan isi:
   ```
   OPENROUTER_API_KEY=masukkan_api_key_kamu_disini
