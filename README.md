@@ -45,7 +45,7 @@ AI Agent berbasis OpenRouter yang mampu membaca satu folder berisi file HTML, CS
 ├─ README.md.
 ```
 ## ⚠ Catatan Penting
-- Scraping Tokopedia bisa berubah karena perubahan struktur HTML.
+- Folder input/ wajib berisi folder website (bukan file satuan).
 - File hasil konversi JPG akan tersimpan otomatis di folder output/.
 - Wajib mengisi file .env sebelum menjalankan program.
 - Koneksi internet diperlukan.
